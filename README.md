@@ -16,16 +16,16 @@ A full-stack AI-powered chatbot generator that allows users to paste any website
 ## Screenshots
 
 ### 1. URL Pasting Interface
-![URL Input](./screenshots/scrap.png)
+![URL Input](./screenshot/scrap.png)
 
 ### 2. Chatbot Before Asking a Question
-![Chatbot Ready](./screenshots/chat.png)
+![Chatbot Ready](./screenshot/chat.png)
 
 ### 3. Chatbot After Asking a Question
-![Chatbot Response](./screenshots/res.png)
+![Chatbot Response](./screenshot/res.png)
 
 ### 4. Chatbot Conversation Example
-![Chatbot Conversation](./screenshots/res2.png)
+![Chatbot Conversation](./screenshot/res2.png)
 
 ---
 
